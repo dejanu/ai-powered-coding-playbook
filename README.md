@@ -63,6 +63,7 @@ Is available
 * [cursor](https://cursor.com/) VSCode fork
 * Mathematical reasoning engine [Harmonic](https://harmonic.fun/)
 * [Agent Skills](https://agentskills.io/home) (open standard)
+*  AI-powered research assistant [Undermind](https://www.undermind.ai/)
 
 
 
