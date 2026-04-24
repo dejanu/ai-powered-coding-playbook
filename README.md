@@ -1,4 +1,4 @@
-# coding_AI
+<img width="3024" height="4352" alt="image" src="https://github.com/user-attachments/assets/4476f8a6-76c7-462e-8f97-8bd84d463b0d" /># coding_AI
 
 📍 Coding in the age of AI: resources repo
 
@@ -13,6 +13,7 @@
 * [PREDICTING EXPERT EVALUATIONS IN SOFTWARE CODE
 REVIEWS](https://arxiv.org/pdf/2409.15152): An algorithmic model that automates aspects of code review typically avoided due to their complexity
 or subjectivity, such as assessing coding time, implementation time, and code complexity.
+* [ReAct: Synergizing Reasoning](https://arxiv.org/abs/2210.03629)
 
 ---
 
