@@ -1,4 +1,4 @@
-<img width="3024" height="4352" alt="image" src="https://github.com/user-attachments/assets/4476f8a6-76c7-462e-8f97-8bd84d463b0d" /># coding_AI
+# coding_AI
 
 📍 Coding in the age of AI: resources repo
 
