@@ -7,7 +7,7 @@ sequenceDiagram
 
     Client->>Server: spawn subprocess (stdio)
     Client->>Server: call_tool("greet", {"name": "Alex"})
-    Server-->>Client: "Hello supp my boi, Alex!"
+    Server-->>Client: "Hello custom message, Alex!"
     Client->>Server: close connection
 ```
 
@@ -22,6 +22,6 @@ sequenceDiagram
     VSCode->>Server: spawn subprocess via .vscode/mcp.json (stdio)
     User->>VSCode: ask Copilot to use greet tool
     VSCode->>Server: call_tool("greet", {"name": "..."})
-    Server-->>VSCode: "Hello supp my boi, ...!"
+    Server-->>VSCode: "Hello custom message, ...!"
     VSCode-->>User: display result
 ```
