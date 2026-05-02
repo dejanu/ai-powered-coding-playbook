@@ -3,7 +3,7 @@
 📍 Repo map:
 
 * [anthropic_skilljar] resources
-* [mcp demos][https://github.com/dejanu/ai-powered-coding-playbook/blob/main/mcp/notes.md] resources
+* [mcp demos](https://github.com/dejanu/ai-powered-coding-playbook/blob/main/mcp/notes.md) resources
 
 📍 AI-enabled repo [taskapp](https://github.com/dejanu/taskapp)
 
