@@ -22,12 +22,14 @@ or subjectivity, such as assessing coding time, implementation time, and code co
 
 ## AI powered coding assistants:
 
+Vanilla [Visual Studio Code] is built on top of Electron and benefits from all the networking stack capabilities of Chromium. 
+If your IDE is behind a proxy, check [Network Connections in Visual Studio Code](https://code.visualstudio.com/docs/setup/network).
+
 [GitHub Copilot in Visual Studio Code](https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features): Powered by OpenAI Codex to work in real time, Codex is a GPT (more precisely a descendant of GPT-3) language model fine-tuned on publicly available code from GitHub.
 
 [Cursor](https://cursor.com/) VSCode fork by Anysphere. Cursor [best practices](https://cursor.com/blog/agent-best-practices)
 
-Vanilla [Visual Studio Code] is built on top of Electron and benefits from all the networking stack capabilities of Chromium. 
-If your IDE is behind a proxy, check [Network Connections in Visual Studio Code](https://code.visualstudio.com/docs/setup/network).
+Install [Gemini Code in GitHub](https://developers.google.com/gemini-code-assist/docs/set-up-code-assist-github#install-gemini-code-assist) as code reviewer. After creation, Gemini Code Assist provides suggestions to your code review every time the pull request author or other human reviewers add comments with the `/gemini` tag on the pull request
 
 ## Terminology:
 
