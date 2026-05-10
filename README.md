@@ -26,6 +26,9 @@ or subjectivity, such as assessing coding time, implementation time, and code co
 
 [Cursor](https://cursor.com/) VSCode fork by Anysphere. Cursor [best practices](https://cursor.com/blog/agent-best-practices)
 
+Vanilla [Visual Studio Code] is built on top of Electron and benefits from all the networking stack capabilities of Chromium. 
+If your IDE is behind a proxy, check [Network Connections in Visual Studio Code](https://code.visualstudio.com/docs/setup/network).
+
 ## Terminology:
 
  **Context** is everything: 
