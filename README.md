@@ -24,7 +24,7 @@ or subjectivity, such as assessing coding time, implementation time, and code co
 
 [GitHub Copilot in Visual Studio Code](https://code.visualstudio.com/docs/copilot/reference/copilot-vscode-features): Powered by OpenAI Codex to work in real time, Codex is a GPT (more precisely a descendant of GPT-3) language model fine-tuned on publicly available code from GitHub.
 
-[Cursor](https://cursor.com/) VSCode fork by Anysphere.
+[Cursor](https://cursor.com/) VSCode fork by Anysphere. Cursor [best practices](https://cursor.com/blog/agent-best-practices)
 
 ## Terminology:
 
