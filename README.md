@@ -61,6 +61,7 @@ or subjectivity, such as assessing coding time, implementation time, and code co
 * [Chat Cookbook](https://docs.github.com/en/copilot/tutorials/copilot-chat-cookbook)
 * [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
 * [Prompt-cheatsheet](https://github.com/dejanu/coding_AI/blob/main/prompts/prompt-cheatsheet.md)
+* [Google's AI tools](https://cloud.google.com/use-cases/free-ai-tools#overview)
 
 ---
 
