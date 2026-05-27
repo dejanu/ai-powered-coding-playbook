@@ -1,11 +1,11 @@
- co * Setup
+ * Setup
 
 ```bash
 uv python install 3.10        # Install Python 3.10
 uv init --python 3.10         # Initialize project with Python 3.10
+source .venv/bin/activate      # Activate virtual environment
 uv add fastmcp                 # Add fastmcp dependency
 uv sync                        # Sync dependencies
-source .venv/bin/activate      # Activate virtual environment
 ```
 
 * Instrument client and server WITHOUT MCP host
