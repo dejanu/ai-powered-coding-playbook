@@ -1,9 +1,10 @@
-# coding_AI
+# AI playbooks
 
 📍 Repo map:
 
 * [anthropic_skilljar](https://github.com/dejanu/ai-powered-coding-playbook/blob/main/anthropic_skilljar/notes.md) resources
 * [mcp demos](https://github.com/dejanu/ai-powered-coding-playbook/blob/main/mcp/notes.md) resources
+* [prompt_examples](https://github.com/dejanu/ai-powered-coding-playbook/blob/main/prompts/notes.md)
 
 📍 AI-enabled repo [taskapp](https://github.com/dejanu/taskapp)
 
