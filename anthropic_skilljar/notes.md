@@ -128,29 +128,4 @@ Use thinking (internal reasoning): keyword that increase the internal reasoning
 
 ### Introduction to Model Context Protocol
 
-* MCP server with one tool called `greet`: setup without using MCP host vs setup with MCP host (VS Code)
-
-```mermaid
-sequenceDiagram
-    participant Client as my_client.py
-    participant Server as my_server.py (FastMCP)
-
-    Client->>Server: spawn subprocess (stdio)
-    Client->>Server: call_tool("greet", {"name": "Alex"})
-    Server-->>Client: "A custom message, Alex!"
-    Client->>Server: close connection
-```
-
-
-```mermaid
-sequenceDiagram
-    participant User
-    participant VSCode as VS Code (Copilot)
-    participant Server as my_server.py (FastMCP)
-
-    VSCode->>Server: spawn subprocess via .vscode/mcp.json (stdio)
-    User->>VSCode: ask Copilot to use greet tool
-    VSCode->>Server: call_tool("greet", {"name": "..."})
-    Server-->>VSCode: "A custom message, ...!"
-    VSCode-->>User: display result
-```
+* MCP server with one tool called `greet`: setup without using MCP host vs setup with MCP host (VS Code). See sequence diagrams in [diagrams/local_client_server.md](../diagrams/local_client_server.md).
