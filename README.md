@@ -68,6 +68,7 @@ Install [Gemini Code in GitHub](https://developers.google.com/gemini-code-assist
 * [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
 * [Prompt-cheatsheet](https://github.com/dejanu/coding_AI/blob/main/prompts/prompt-cheatsheet.md)
 * [Google's AI tools](https://cloud.google.com/use-cases/free-ai-tools#overview)
+* [LLM Token Expenditure Index](https://www.silicondata.com/products/silicon-index/llm-token-expenditure-index)
 
 ---
 
