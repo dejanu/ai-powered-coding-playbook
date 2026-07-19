@@ -21,4 +21,8 @@ docker exec ollama ollama run phi3
 
 ```bash
 docker exec -it ollama ollama run phi3 "PROMPT"
+
+docker exec -it ollama ollama run phi3 "if __name__ =="
+docker exec -it ollama ollama run phi3 "weather forecast now"
+
 ```

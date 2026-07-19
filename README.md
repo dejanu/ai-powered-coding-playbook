@@ -18,6 +18,7 @@
 REVIEWS](https://arxiv.org/pdf/2409.15152): An algorithmic model that automates aspects of code review typically avoided due to their complexity
 or subjectivity, such as assessing coding time, implementation time, and code complexity.
 * [ReAct: Synergizing Reasoning](https://arxiv.org/abs/2210.03629)
+* [Phi-3 paper](https://arxiv.org/pdf/2404.14219)
 
 ---
 
