@@ -19,6 +19,7 @@ REVIEWS](https://arxiv.org/pdf/2409.15152): An algorithmic model that automates 
 or subjectivity, such as assessing coding time, implementation time, and code complexity.
 * [ReAct: Synergizing Reasoning](https://arxiv.org/abs/2210.03629)
 * [Phi-3 paper](https://arxiv.org/pdf/2404.14219)
+* [Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
 
 ---
 
