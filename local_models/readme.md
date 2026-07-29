@@ -3,7 +3,7 @@
 ## Ollama runtime
 
 * Use Ollama server to pull, run, and manage models:
-    *  For GPU acceleration you'd also need `--gpus=all` (NVIDIA) plus the NVIDIA Container Toolkit installed on the hostm otherwise it falls back to CPU ONLY INFERENCE 
+    *  For GPU acceleration you'd also need `--gpus=all` (NVIDIA) plus the NVIDIA Container Toolkit installed on the host; otherwise, it falls back to CPU ONLY INFERENCE 
 
 * Ollama [library for models](https://ollama.com/library)
 
@@ -15,6 +15,7 @@ docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 
 ```bash
 docker exec ollama ollama run phi3
+docker exec ollama ollama run qwen2.5-coder:0.5b
 ```
 
 * Prompt the model
@@ -23,4 +24,8 @@ docker exec ollama ollama run phi3
 docker exec -it ollama ollama run phi3 "PROMPT"
 docker exec -it ollama ollama run phi3 "if __name__ =="
 docker exec -it ollama ollama run phi3 "weather forecast now"
+
+# start interactive shell in the container
+docker exec -it ollama sh
+ollama run qwen2.5-coder:0.5b "def sort(array: list) -> list:"
 ```
