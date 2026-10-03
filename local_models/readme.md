@@ -50,7 +50,7 @@ docker cp Modelfile ollama:/tmp/Modelfile
 * Prompt the model `docker exec -it ollama ollama run <model> “<prompt>”`
 
 ```bash
-docker exec -it ollama ollama run phi3 "PROMPT"
+
 docker exec -it ollama ollama run phi3 "if __name__ =="
 docker exec -it ollama ollama run phi3 "weather forecast now"
 
