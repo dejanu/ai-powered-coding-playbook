@@ -20,6 +20,9 @@ docker exec ollama ollama run qwen:1.8b
 
 docker exec ollama ollama run phi3
 docker exec ollama ollama run qwen2.5-coder:0.5b
+
+# list loaded models
+docker exec ollama ollama list
 ```
 * Create a ModelFile
 
