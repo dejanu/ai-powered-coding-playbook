@@ -2,7 +2,7 @@
 
 ## Ollama runtime for local execution
 
-# Model runtime + model manager + HTTP API
+### Model runtime + model manager + HTTP API
 
 * Use Ollama server to pull, run, and manage models:
     *  For GPU acceleration you'd also need `--gpus=all` (NVIDIA) plus the NVIDIA Container Toolkit installed on the host; otherwise, it falls back to CPU ONLY INFERENCE 
