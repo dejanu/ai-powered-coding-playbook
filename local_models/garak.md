@@ -9,6 +9,9 @@ docker exec ollama ollama run phi3:mini
 #list loaded models
 docker exec ollama ollama list
 
+# dry run test
+python -m garak --model_type test.Blank --probes test.Test
+
 # run only the jailbreak probe category
 python -m garak --model_type ollama --model_name phi3:mini --probes dan
 ```
